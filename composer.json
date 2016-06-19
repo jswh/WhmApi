@@ -1,0 +1,17 @@
+{
+    "name": "jswh/whm-api",
+    "type": "library",
+    "description": "a php version of whm api wrapper and the wrapper generator",
+    "keywords": ["whm", "api"],
+    "homepage": "https://github.com/jswh/WhmApi",
+    "license": "MIT",
+
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "WhmApi\\": "src/"
+        }
+    }
+}
