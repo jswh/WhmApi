@@ -1,5 +1,8 @@
 # WhmApi
 a php version of whm api wrapper and the wrapper generator
+## install
+
+    composer require jswh/whm-api
 
 ## usage
 
